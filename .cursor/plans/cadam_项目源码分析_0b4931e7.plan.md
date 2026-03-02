@@ -122,7 +122,7 @@ src/
 
 #### Edge Functions
 
-`**chat/` 函数\*\* (`[supabase/functions/chat/index.ts](supabase/functions/chat/index.ts)`):
+`**chat/` 函数 (`[supabase/functions/chat/index.ts](supabase/functions/chat/index.ts)`):
 
 - 核心 AI 对话处理函数
 - 使用 OpenRouter API 调用 Claude 模型
